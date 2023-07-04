@@ -37,14 +37,7 @@ The project includes the following 10 test cases, each addressing a specific asp
 9. Test Case 9: Verify the order tracking functionality.
 10. Test Case 10: Verify the quality assurance for delivered products.
 
-The project utilizes the following tools and technologies:
 
-TestNG: A testing framework that enables organizing and executing test cases efficiently.
-Java: A popular programming language used for writing automation scripts.
-Selenium: A widely-used web testing framework for automating browser interactions.
-WebDriverManager: A library used for automatic management of WebDriver binaries required by Selenium.
-JavaFaker: A library for generating realistic and random test data.
-Allure Report: A reporting framework that generates detailed and visually appealing test reports.
 
 ## Getting Started
 To get started with the PSP Automation project, follow these steps:
