@@ -42,7 +42,7 @@ The project includes the following 10 test cases, each addressing a specific asp
 ## Getting Started
 To get started with the PSP Automation project, follow these steps:
 1. Clone the project repository from GitHub: [repository-link].
-2. Install the necessary dependencies, including TestNG, Java, Selenium, JavaFaker, and Allure Report.
+2. Install the necessary dependencies, including TestNG, WebdriverManager, Java, Selenium, JavaFaker, and Allure Report.
 3. Set up the project structure and configuration files.
 4. Configure the required browser drivers (e.g., ChromeDriver) for Selenium.
 5. Update the test data and test cases as per the project requirements.
