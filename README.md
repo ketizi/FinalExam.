@@ -62,7 +62,4 @@ This project utilizes Allure Report to generate detailed test reports with rich 
 ## Contributing
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request or open an issue in the project repository on GitHub.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Please refer to the LICENSE file for more details.
 
-[repository-link]: https://github.com/your-username/psp-automation
