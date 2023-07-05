@@ -27,15 +27,15 @@ The project comprises several key components:
 ## Test Cases
 The project includes the following 10 test cases, each addressing a specific aspect of the PSP website's functionality:
 1. Test Case 1: Verify successful login functionality.
-2. Test Case 2: Verify the search functionality for medicines.
-3. Test Case 3: Verify the sorting functionality for medicine search results.
-4. Test Case 4: Verify the availability of diverse assortment of medicines.
-5. Test Case 5: Verify the product details page for a selected medicine.
-6. Test Case 6: Verify the functionality of adding a medicine to the shopping cart.
-7. Test Case 7: Verify the checkout process for placing an order.
-8. Test Case 8: Verify the payment options available during checkout.
-9. Test Case 9: Verify the order tracking functionality.
-10. Test Case 10: Verify the quality assurance for delivered products.
+2. Test Case 2: Verify Invalid Login Credentials.
+3. Test Case 3: Verify Registration Functionality.
+4. Test Case 4: Verify invalid registration functionality.
+5. Test Case 5: Verify Password Reset Functionality.
+6. Test Case 6: Verify Search Functionality.
+7. Test Case 7: Verify the functionality of adding a medicine to the shopping cart
+8. Test Case 8: Verify Cart Functionality (Perform operations like updating quantity, removing items, and applying discounts. Verify that the cart total is calculated accurately.)
+9. Test Case 9: Verify Checkout Process.
+10. Test Case 10: Website Footer Link Verification
 
 
 
